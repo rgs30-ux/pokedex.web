@@ -13,7 +13,9 @@ https://SEU-USUARIO.github.io/pokedex-web/
 
 ## 📸 Preview
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/pokedex-web/main/preview.png" width="600">
+
+<img src="<img width="1881" height="816" alt="Capturarpkd" src="https://github.com/user-attachments/assets/19a549c7-71c0-4886-b818-7c6f308a6846" />
+" width="600">
 
 ---
 
