@@ -7,7 +7,7 @@ Uma aplicação web interativa que consome a API pública de Pokémon para lista
 ## 🚀 Demonstração
 
 👉 Acesse o projeto online:
-https://SEU-USUARIO.github.io/pokedex-web/
+https://rgs30-ux.github.io/pokedex-web/
 
 ---
 
